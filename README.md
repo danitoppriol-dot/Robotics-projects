@@ -38,5 +38,3 @@ The projects cover mobile robot navigation, manipulator kinematics, and environm
 Each project folder contains source code, example scripts, and instructions. 
 Run the scripts to reproduce simulations, plots, or map updates.
 
-## Author
-Daniele Priola – priola@kth.se
